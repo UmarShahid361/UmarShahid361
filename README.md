@@ -1,4 +1,5 @@
 ![logo](https://github.com/UmarShahid361/UmarShahid361/blob/main/HI%20(1).png)
+<h1 align="center">Hi, I am Umar Shahid 👋
 <h3 align="center">Passionate computer scientist with a dream to integrate machine learning into app and web applications.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4701ftohovghm032f22g9bwyep3ovo8xiwwfx0bizo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
