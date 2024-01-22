@@ -1,6 +1,6 @@
 ![logo](https://github.com/UmarShahid361/UmarShahid361/blob/main/Header.jpg)
 <h1 align="center">Hi, I am UMAR SHAHID 👋
-<h3 align="center">Passionate Computer Scientist from Pakistan who loves to develop.</h3>
+<h3 align="center">Passion-driven computer scientist, weaving innovation through lines of code.</h3>
 
 <img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4701ftohovghm032f22g9bwyep3ovo8xiwwfx0bizo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
