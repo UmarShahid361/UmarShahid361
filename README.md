@@ -39,6 +39,7 @@
 	
 	def Ambitions():
 	    BecomeFullStack();
+	    ExploreNewTechTrends();
 	    GetGoodAtGaming();
 	    BecomeGoodHumanBeing();
 		# Assume 10 more awesome ambitions here  ;)
