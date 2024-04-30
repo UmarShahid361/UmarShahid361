@@ -49,3 +49,6 @@
  ## Other Stuff
   - - :octocat: [My Resume]
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself. (P.S. Star it too!!:grimacing: )
+
+
+![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=umarshahid361&show_icons=true&theme=transparent)
