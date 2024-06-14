@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4701ftohovghm032f22g9bwyep3ovo8xiwwfx0bizo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-[![Linkedin Badge](https://img.shields.io/badge/-UmarShahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umar-shahid-171374287)](https://www.linkedin.com/in/umar-shahid-171374287) [![Gmail Badge](https://img.shields.io/badge/-umar.shahid87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umar.shahid87@gmail.com)](mailto:umar.shahid87@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-UmarShahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-umar-shahid-171374287)](https://www.linkedin.com/in/muhammad-umar-shahid-171374287) [![Gmail Badge](https://img.shields.io/badge/-umar.shahid87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umar.shahid87@gmail.com)](mailto:umar.shahid87@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
